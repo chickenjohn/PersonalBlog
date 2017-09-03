@@ -11,7 +11,7 @@ url:                "https://chickenjohn.github.io/PersonalBlog"
 author:             "chickenjohn"
 
 # URL
-baseurl:            ""
+baseurl:            "/PersonalBlog"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title/
 
